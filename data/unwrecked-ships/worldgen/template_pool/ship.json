@@ -42,6 +42,15 @@
             "weight": 1,
             "element": {
                 "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked-ships:ship/oak_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked-ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked-ships:ship/spruce_dark_oak_ship",
                 "projection": "rigid",
                 "processors": "unwrecked-ships:ship"
