@@ -1,0 +1,69 @@
+{
+    "name": "vanilla-ships:ship",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "vanilla-ships:ship/dark_oak_jungle_ship",
+                "projection": "rigid",
+                "processors": "vanilla-ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "vanilla-ships:ship/dark_oak_spruce_ship",
+                "projection": "rigid",
+                "processors": "vanilla-ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "vanilla-ships:ship/jungle_spruce_ship",
+                "projection": "rigid",
+                "processors": "vanilla-ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "vanilla-ships:ship/oak_spruce_ship",
+                "projection": "rigid",
+                "processors": "vanilla-ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "vanilla-ships:ship/spruce_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "vanilla-ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "vanilla-ships:ship/spruce_jungle_ship",
+                "projection": "rigid",
+                "processors": "vanilla-ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "vanilla-ships:ship/spruce_oak_ship",
+                "projection": "rigid",
+                "processors": "vanilla-ships:ship"
+            }
+        }
+    ]
+}
