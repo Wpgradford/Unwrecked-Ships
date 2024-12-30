@@ -1,0 +1,373 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:glass",
+            "probability": 0.15
+          },
+          "output_state": {
+            "Name": "minecraft:air"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:glass",
+            "probability": 0.15
+          },
+          "output_state": {
+            "Name": "minecraft:white_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:glass",
+            "probability": 0.10
+          },
+          "output_state": {
+            "Name": "minecraft:light_gray_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:light_gray_stained_glass",
+            "probability": 0.25
+          },
+          "output_state": {
+            "Name": "minecraft:white_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:gray_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:light_gray_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:gray_stained_glass",
+            "probability": 0.15
+          },
+          "output_state": {
+            "Name": "minecraft:brown_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:black_stained_glass",
+            "probability": 0.10
+          },
+          "output_state": {
+            "Name": "minecraft:gray_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:black_stained_glass",
+            "probability": 0.10
+          },
+          "output_state": {
+            "Name": "minecraft:brown_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:black_stained_glass",
+            "probability": 0.10
+          },
+          "output_state": {
+            "Name": "minecraft:red_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:black_stained_glass",
+            "probability": 0.03
+          },
+          "output_state": {
+            "Name": "minecraft:tinted_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:red_stained_glass",
+            "probability": 0.15
+          },
+          "output_state": {
+            "Name": "minecraft:black_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:red_stained_glass",
+            "probability": 0.10
+          },
+          "output_state": {
+            "Name": "minecraft:brown_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:red_stained_glass",
+            "probability": 0.15
+          },
+          "output_state": {
+            "Name": "minecraft:pink_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:orange_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:yellow_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:orange_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:magenta_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:yellow_stained_glass",
+            "probability": 0.25
+          },
+          "output_state": {
+            "Name": "minecraft:pink_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:lime_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:orange_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:green_stained_glass",
+            "probability": 0.25
+          },
+          "output_state": {
+            "Name": "minecraft:lime_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cyan_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:light_blue_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cyan_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:blue_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:blue_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:cyan_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:blue_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:light_blue_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:purple_stained_glass",
+            "probability": 0.25
+          },
+          "output_state": {
+            "Name": "minecraft:magenta_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:purple_stained_glass",
+            "probability": 0.15
+          },
+          "output_state": {
+            "Name": "minecraft:pink_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:magenta_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:purple_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:magenta_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:pink_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:pink_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:purple_stained_glass"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:pink_stained_glass",
+            "probability": 0.20
+          },
+          "output_state": {
+            "Name": "minecraft:magenta_stained_glass"
+          }
+        }
+      ]
+    }
+  ]
+}

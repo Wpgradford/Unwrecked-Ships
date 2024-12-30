@@ -1,0 +1,21 @@
+{
+    "name": "unwrecked_ships:sailors/common_villager",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sailors/villager",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:empty_pool_element"
+			}
+		}
+    ]
+}
