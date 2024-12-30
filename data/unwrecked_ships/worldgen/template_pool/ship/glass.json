@@ -1,0 +1,159 @@
+{
+    "name": "unwrecked_ships:ship/glass",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 6,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/white_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/light_gray_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/gray_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/black_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/brown_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/red_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/orange_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/yellow_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/lime_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/green_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/cyan_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/light_blue_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/blue_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/purple_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/magenta_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/glass/pink_glass",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/glass_combinations"
+            }
+        }
+    ]
+}

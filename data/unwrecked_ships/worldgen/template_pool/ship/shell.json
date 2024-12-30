@@ -1,0 +1,87 @@
+{
+    "name": "unwrecked_ships:ship/shell",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/oak_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/spruce_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/birch_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/jungle_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/acacia_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/dark_oak_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/mangrove_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/cherry_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/bamboo_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship/ship"
+            }
+        }
+    ]
+}
