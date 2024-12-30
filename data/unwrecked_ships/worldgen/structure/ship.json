@@ -5,7 +5,7 @@
 	"spawn_overrides": {},
 	"terrain_adaptation": "none",
     "start_pool": "unwrecked_ships:ship/shell",
-    "size": 20,
+    "size": 7,
     "step": "surface_structures",
     "start_height": {
       "absolute": -2
