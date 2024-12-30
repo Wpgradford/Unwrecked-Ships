@@ -1,0 +1,15 @@
+{
+    "name": "unwrecked_ships:crimson_sails",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/crimson_sails",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:nether_ship"
+            }
+        }
+    ]
+}

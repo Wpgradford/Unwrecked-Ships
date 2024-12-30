@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": "#unwrecked_ships:has_structure/nether_ship",
+	"spawn_overrides": {},
+	"terrain_adaptation": "none",
+    "start_pool": "unwrecked_ships:nether_ship",
+    "size": 7,
+    "step": "surface_structures",
+	"start_height": {
+      "type": "minecraft:uniform",
+      "min_inclusive": {
+        "absolute": 30
+      },
+      "max_inclusive": {
+        "absolute": 30
+      }
+    },
+    "max_distance_from_center": 50,
+    "use_expansion_hack": false
+}

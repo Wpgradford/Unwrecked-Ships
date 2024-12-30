@@ -1,0 +1,42 @@
+{
+    "name": "unwrecked_ships:nether_ship",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:nether_ship/crimson_crimson_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:nether_ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:nether_ship/crimson_warped_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:nether_ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:nether_ship/warped_crimson_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:nether_ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:nether_ship/warped_warped_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:nether_ship"
+            }
+        }
+    ]
+}

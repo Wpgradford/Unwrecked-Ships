@@ -1,0 +1,735 @@
+{
+    "name": "unwrecked_ships:ship",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/oak_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/spruce_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/birch_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/jungle_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/dark_oak_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/acacia_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/mangrove_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/cherry_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_spruce_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_birch_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_jungle_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_dark_oak_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_acacia_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_mangrove_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_cherry_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/bamboo_bamboo_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        }
+    ]
+}

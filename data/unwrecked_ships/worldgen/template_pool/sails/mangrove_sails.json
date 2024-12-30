@@ -1,0 +1,150 @@
+{
+    "name": "unwrecked_ships:mangrove_sails",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_white",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_light_gray",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_gray",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_black",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_brown",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_red",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_orange",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_yellow",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_lime",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_green",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_cyan",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_light_blue",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_blue",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_purple",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_magenta",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:sails/mangrove_sails_pink",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:ship"
+            }
+        }
+    ]
+}
