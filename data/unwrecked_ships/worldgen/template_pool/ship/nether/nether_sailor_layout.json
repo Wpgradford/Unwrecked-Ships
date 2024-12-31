@@ -1,0 +1,24 @@
+{
+    "name": "unwrecked_ships:ship/nether_sailor_layout",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/sailor_layout/nether/nether_zombie_merchant_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:lanterns"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/sailor_layout/nether/nether_privateer_ship",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:blackstone"
+            }
+        }
+    ]
+}

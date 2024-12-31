@@ -1,0 +1,42 @@
+{
+    "name": "unwrecked_ships:ship/nether_shell",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/nether/crimson_shell",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/nether/warped_shell",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/nether/crimson_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:stripped_mast"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/nether/warped_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:stripped_mast"
+            }
+        }
+    ]
+}

@@ -1,0 +1,471 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:oak_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_oak_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:oak_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_oak_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:spruce_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_spruce_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:spruce_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_spruce_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:birch_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_birch_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:birch_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_birch_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:jungle_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_jungle_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:jungle_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_jungle_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:acacia_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_acacia_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:acacia_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_acacia_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dark_oak_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_dark_oak_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dark_oak_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_dark_oak_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:mangrove_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_mangrove_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:mangrove_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_mangrove_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:cherry_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_cherry_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:cherry_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_cherry_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:bamboo_block",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_bamboo_block",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:bamboo_block",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_bamboo_block",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:warped_stem",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_warped_stem",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:warped_stem",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_warped_stem",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:crimson_stem",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_crimson_stem",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:crimson_stem",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_crimson_stem",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
