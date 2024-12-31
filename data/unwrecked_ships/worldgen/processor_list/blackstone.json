@@ -9,11 +9,11 @@
           },
           "input_predicate": {
             "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:gold_block",
+            "block": "minecraft:blackstone",
             "probability": 0.25
           },
           "output_state": {
-            "Name": "minecraft:air"
+            "Name": "minecraft:gilded_blackstone"
           }
         },
         {
@@ -22,7 +22,7 @@
           },
           "input_predicate": {
             "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:soul_lantern",
+            "block": "minecraft:lantern",
             "probability": 0.35
           },
           "output_state": {
@@ -35,7 +35,7 @@
           },
           "input_predicate": {
             "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:lantern",
+            "block": "minecraft:soul_lantern",
             "probability": 0.35
           },
           "output_state": {

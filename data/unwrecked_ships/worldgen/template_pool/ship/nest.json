@@ -6,6 +6,24 @@
             "weight": 1,
             "element": {
                 "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/nest/nether/crimson_nest",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/nest/nether/warped_nest",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/nest/oak_nest",
                 "projection": "rigid",
                 "processors": "minecraft:empty"

@@ -6,6 +6,24 @@
             "weight": 1,
             "element": {
                 "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/sails/nether/horizontal_warped_sails_secondary",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/sails/nether/horizontal_crimson_sails_secondary",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
                 "processors": "minecraft:empty"
@@ -17,7 +35,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/light_gray_sails"
+                "processors": "unwrecked_ships:sails/light_gray_sails"
             }
         },
         {
@@ -26,7 +44,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/gray_sails"
+                "processors": "unwrecked_ships:sails/gray_sails"
             }
         },
         {
@@ -35,7 +53,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/black_sails"
+                "processors": "unwrecked_ships:sails/black_sails"
             }
         },
         {
@@ -44,7 +62,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/brown_sails"
+                "processors": "unwrecked_ships:sails/brown_sails"
             }
         },
         {
@@ -53,7 +71,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/red_sails"
+                "processors": "unwrecked_ships:sails/red_sails"
             }
         },
         {
@@ -62,7 +80,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/orange_sails"
+                "processors": "unwrecked_ships:sails/orange_sails"
             }
         },
         {
@@ -71,7 +89,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/yellow_sails"
+                "processors": "unwrecked_ships:sails/yellow_sails"
             }
         },
         {
@@ -80,7 +98,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/lime_sails"
+                "processors": "unwrecked_ships:sails/lime_sails"
             }
         },
         {
@@ -89,7 +107,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/green_sails"
+                "processors": "unwrecked_ships:sails/green_sails"
             }
         },
         {
@@ -98,7 +116,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/cyan_sails"
+                "processors": "unwrecked_ships:sails/cyan_sails"
             }
         },
         {
@@ -107,7 +125,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/light_blue_sails"
+                "processors": "unwrecked_ships:sails/light_blue_sails"
             }
         },
         {
@@ -116,7 +134,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/blue_sails"
+                "processors": "unwrecked_ships:sails/blue_sails"
             }
         },
         {
@@ -125,7 +143,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/purple_sails"
+                "processors": "unwrecked_ships:sails/purple_sails"
             }
         },
         {
@@ -134,7 +152,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/magenta_sails"
+                "processors": "unwrecked_ships:sails/magenta_sails"
             }
         },
         {
@@ -143,7 +161,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/sails/horizontal_white_sails_secondary",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/sails/pink_sails"
+                "processors": "unwrecked_ships:sails/pink_sails"
             }
         }
     ]

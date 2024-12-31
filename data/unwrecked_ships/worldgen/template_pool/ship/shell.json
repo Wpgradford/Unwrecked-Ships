@@ -71,7 +71,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/shell/oak_shell",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/stripped_mast"
+                "processors": "unwrecked_ships:stripped_mast"
             }
         },
         {
@@ -80,7 +80,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/shell/spruce_shell",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/stripped_mast"
+                "processors": "unwrecked_ships:stripped_mast"
             }
         },
         {
@@ -89,7 +89,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/shell/birch_shell",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/stripped_mast"
+                "processors": "unwrecked_ships:stripped_mast"
             }
         },
         {
@@ -98,7 +98,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/shell/jungle_shell",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/stripped_mast"
+                "processors": "unwrecked_ships:stripped_mast"
             }
         },
         {
@@ -107,7 +107,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/shell/acacia_shell",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/stripped_mast"
+                "processors": "unwrecked_ships:stripped_mast"
             }
         },
         {
@@ -116,7 +116,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/shell/dark_oak_shell",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/stripped_mast"
+                "processors": "unwrecked_ships:stripped_mast"
             }
         },
         {
@@ -125,7 +125,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/shell/mangrove_shell",
                 "projection": "rigid",
-                "processors": "unwrecked_ships:ship/stripped_mast"
+                "processors": "unwrecked_ships:stripped_mast"
             }
         }
     ]
