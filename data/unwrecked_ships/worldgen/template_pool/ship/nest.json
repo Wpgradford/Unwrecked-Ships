@@ -100,6 +100,15 @@
                 "projection": "rigid",
                 "processors": "minecraft:empty"
             }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/nest/pale_oak_nest",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
         }
     ]
 }

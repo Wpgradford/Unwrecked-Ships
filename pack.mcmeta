@@ -1,6 +1,10 @@
 {
 	"pack": {
 		"pack_format": 61,
-		"description": "Ships of all types sailing the seas!"
+		"description": "Ships of all types sailing the seas!",
+		"supported_formats": {
+			"min_inclusive": 61,
+			"max_inclusive": 71
+		}
 	}
 }

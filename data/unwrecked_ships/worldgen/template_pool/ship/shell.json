@@ -84,6 +84,15 @@
             }
         },
         {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/pale_oak_shell",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
             "weight": 3,
             "element": {
                 "element_type": "minecraft:single_pool_element",
@@ -160,6 +169,15 @@
             "element": {
                 "element_type": "minecraft:single_pool_element",
                 "location": "unwrecked_ships:ship/shell/bamboo_shell",
+                "projection": "rigid",
+                "processors": "unwrecked_ships:stripped_mast"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "unwrecked_ships:ship/shell/pale_oak_shell",
                 "projection": "rigid",
                 "processors": "unwrecked_ships:stripped_mast"
             }

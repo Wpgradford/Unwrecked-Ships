@@ -388,6 +388,48 @@
           "input_predicate": {
             "predicate_type": "minecraft:random_blockstate_match",
             "block_state": {
+              "Name": "minecraft:pale_oak_log",
+              "Properties": {
+                "axis": "x"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_pale_oak_log",
+            "Properties": {
+              "axis": "x"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
+              "Name": "minecraft:pale_oak_log",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "probability": 1.0
+          },
+          "output_state": {
+            "Name": "minecraft:stripped_pale_oak_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "block_state": {
               "Name": "minecraft:warped_stem",
               "Properties": {
                 "axis": "x"
